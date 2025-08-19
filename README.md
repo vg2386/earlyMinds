@@ -2,14 +2,14 @@
 
 > Revolutionizing early childhood development screening through intelligent technology that enables detection of autism and developmental delays 6+ months earlier than current clinical methods.
 
-## 🎯 Problem We're Solving
+## Problem We're Solving
 
 - 1 in 36 children have autism, typically diagnosed at 4+ years despite early signs appearing by 18-24 months
 - Current screening relies on subjective checklists and long specialist wait times
 - Early intervention can save $1.4M per child in lifetime costs, but requires early detection
 - Underserved communities lack access to specialized developmental screening
 
-## 💡 Our Solution
+## Our Solution
 
 **Clinical-grade developmental assessment through smartphone recordings**
 
@@ -18,7 +18,7 @@
 - **Evidence-based insights** powered by Stanford Clinical AI (CLMBR)
 - **Seamless integration** with pediatric EHR systems via FHIR
 
-## 🏗️ Technical Innovation
+## Technical Innovation
 
 **Hybrid Edge/Cloud Architecture**
 - **Mobile edge processing** (EarlyVision + EarlyListen) for real-time feedback
@@ -33,7 +33,7 @@
 - Computer Vision + Audio ML for behavioral analysis
 - FHIR/HL7 for healthcare interoperability
 
-## 📊 Impact & Market
+## Impact & Market
 
 **Target Market:** $2B+ addressable market in pediatric developmental screening
 
@@ -48,7 +48,7 @@
 - Direct Consumer: Mobile app with freemium model
 - Enterprise: Clinical decision support platform
 
-## 🎯 Repository Contents
+## Repository Contents
 
 - **Mobile App**: React Native application with real-time AI guidance
 - **Edge Processing**: Lightweight AI for on-device analysis
@@ -57,15 +57,15 @@
 - **Clinical Tools**: EHR integration and clinician dashboard
 - **Business Analysis**: Market research, GTM strategy, and financial models
 
-## 🚀 Getting Started
+## Getting Started
 
 [Setup instructions will be here]
 
-## 🏥 Clinical Validation
+## Clinical Validation
 
 Platform designed for clinical validation with 90%+ sensitivity/specificity targets. Regulatory pathway established for FDA compliance as clinical decision support tool.
 
-## 🤝 Seeking Partnerships
+## Seeking Partnerships
 
 - Healthcare systems for clinical validation
 - Pediatric practices for pilot programs  
