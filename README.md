@@ -33,6 +33,9 @@
 - Computer Vision + Audio ML for behavioral analysis
 - FHIR/HL7 for healthcare interoperability
 
+## System Architecture
+![EarlyMinds Architecture](documents/earlyMinds-SystemArchitecture.png)
+
 ## Technical Innovation
 
 ## Impact & Market
