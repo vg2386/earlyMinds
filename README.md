@@ -29,9 +29,11 @@
 **Key Technologies:**
 - AWS (Fargate, Lambda, DynamoDB, S3, Bedrock, Q)
 - React Native, TypeScript, Python
-- Stanford CLMBR for clinical reasoning
+- Stanford LLM CLMBR for clinical reasoning
 - Computer Vision + Audio ML for behavioral analysis
 - FHIR/HL7 for healthcare interoperability
+
+## Technical Innovation
 
 ## Impact & Market
 
